@@ -10,7 +10,6 @@ My name is Vaibhav Dubey. I'm in love with software development since early coll
 ## Find me around the web 🌎: 
 <p align="center">
 	<a href="https://github.com/Vaibhav-Dubey"><img src="https://img.shields.io/github/followers/dubey.svg?label=GitHub&style=social" alt="GitHub"></a>
-	<a href="https://twitter.com/ayee_dubey">Twitter</a>
 	<a href="https://www.linkedin.com/in/vaibhav-dubey-2a3295131/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 </p>
 
