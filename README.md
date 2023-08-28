@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" />
 
-My name is Vaibhav Dubey. I'm in love with software development since early college which led me to work in the IT field, despite my Electronics Degress :P. I've been working in the industry for  sometime now. Besides code, I love learning new (human) languages, meeting new cultures, and playing games. 
+My name is Vaibhav Dubey. I'm in love with software development since early college which led me to work in the IT field, despite my Electronics Degrees :P. I've been working in the industry for  sometime now. Besides code, I love learning new (human) languages, meeting new cultures, and playing games. 
 
 <br/>
 <br/>
@@ -45,3 +45,6 @@ My name is Vaibhav Dubey. I'm in love with software development since early coll
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white" height="25">
 </p>
+<img align="left" alt="Vaibhav's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Vaibhav-Dubey&show_icons=true&hide_border=ture&count_private=true&theme=dark&hide=stars,prs,issues,contribs" />
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav-Dubey&hide=css,html&theme=dark)
