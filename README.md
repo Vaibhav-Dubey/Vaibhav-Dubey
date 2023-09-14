@@ -45,6 +45,4 @@ My name is Vaibhav Dubey. I'm in love with software development since early coll
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white" height="25">
 </p>
-<img align="left" alt="Vaibhav's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Vaibhav-Dubey&show_icons=true&hide_border=ture&count_private=true&theme=dark&hide=stars,prs,issues,contribs" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav-Dubey&hide=css,html&theme=dark)
