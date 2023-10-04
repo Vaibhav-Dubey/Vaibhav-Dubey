@@ -5,6 +5,11 @@
 My name is Vaibhav Dubey. I'm in love with software development since early college which led me to work in the IT field, despite my Electronics Degrees :P. I've been working in the industry for  sometime now. Besides code, I love learning new (human) languages, meeting new cultures, and playing games. 
 
 - 💡 Problem Solver: Passionate about solving complex problems through elegant and efficient code solutions.
+- 🤖 AI and ML Explorer: Exploring the world of artificial intelligence and machine learning, experimenting with models and data analysis.
+- 🌍 Global Perspective: Eager to work on projects with an international reach, fostering a diverse and inclusive tech community.
+- 📢 Public Speaker: Interested in giving talks or presentations at tech conferences, meetups, or workshops to share your expertise and experiences.
+- 🎮 Game Development Enthusiast: Passionate about game development, experimenting with game engines like Unity or Unreal Engine.
+- 📊 Data Visualization: Proficient in creating interactive and insightful data visualizations using tools like D3.js or Tableau.
 
 <br/>
 <br/>
