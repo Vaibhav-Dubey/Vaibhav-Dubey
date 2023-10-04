@@ -4,6 +4,8 @@
 
 My name is Vaibhav Dubey. I'm in love with software development since early college which led me to work in the IT field, despite my Electronics Degrees :P. I've been working in the industry for  sometime now. Besides code, I love learning new (human) languages, meeting new cultures, and playing games. 
 
+- 💡 Problem Solver: Passionate about solving complex problems through elegant and efficient code solutions.
+
 <br/>
 <br/>
 
