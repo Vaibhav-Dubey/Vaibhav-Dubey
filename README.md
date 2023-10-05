@@ -8,7 +8,7 @@ My name is Vaibhav Dubey. I'm in love with software development since early coll
 - 🤖 AI and ML Explorer: Exploring the world of artificial intelligence and machine learning, experimenting with models and data analysis.
 - 🌍 Global Perspective: Eager to work on projects with an international reach, fostering a diverse and inclusive tech community.
 - 📢 Public Speaker: Interested in giving talks or presentations at tech conferences, meetups, or workshops to share your expertise and experiences.
-- 🎮 Game Development Enthusiast: Passionate about game development, experimenting with game engines like Unity or Unreal Engine.
+- 🎮 Game Development Enthusiast: Passionate about game development, experimenting with game engines like Unity or Unreal Engine. Currently understanding ml-agents library and implementing it in personal projects.
 - 📊 Data Visualization: Proficient in creating interactive and insightful data visualizations using tools like D3.js or Tableau.
 
 <br/>
