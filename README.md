@@ -1,6 +1,6 @@
 ## Hi there 👋 Welcome to my Github! 	
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" />
+<img align="right" alt="GIF" height="100px" src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" />
 
 My name is Vaibhav Dubey. I'm in love with software development since early college which led me to work in the IT field, despite my Electronics Degrees :P. I've been working in the industry for  sometime now. Besides code, I love learning new (human) languages, meeting new cultures, and playing games. 
 
